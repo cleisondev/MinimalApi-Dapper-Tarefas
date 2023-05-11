@@ -13,7 +13,7 @@ namespace TarefasAPI
             app.MapTarefasEndpoints();
 
 
-            app.Run();
+            app.Run();     
         }
     }
 }
